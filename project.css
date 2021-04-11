@@ -1,0 +1,15 @@
+html {
+  background: url(https://www.colorbook.io/imagecreator.php?hex=7289da&width=1054&height=548) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.navigation-bar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: #FFFFFF;
+}
